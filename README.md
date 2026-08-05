@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0136-single-number](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0136-single-number) |
 | [0976-largest-perimeter-triangle](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0976-largest-perimeter-triangle) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Hash Table
@@ -41,4 +42,8 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->

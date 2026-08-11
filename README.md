@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0075-sort-colors) |
+| [0118-pascals-triangle](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0136-single-number) |
 | [0485-max-consecutive-ones](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0485-max-consecutive-ones) |
 | [0976-largest-perimeter-triangle](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0976-largest-perimeter-triangle) |
@@ -62,4 +63,8 @@
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1051-height-checker) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->

@@ -11,6 +11,7 @@
 | [0118-pascals-triangle](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0136-single-number) |
 | [0485-max-consecutive-ones](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0485-max-consecutive-ones) |
+| [0905-sort-array-by-parity](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0905-sort-array-by-parity) |
 | [0976-largest-perimeter-triangle](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0976-largest-perimeter-triangle) |
 | [1051-height-checker](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1051-height-checker) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -36,6 +37,7 @@
 | ------- |
 | [0015-3sum](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0075-sort-colors) |
+| [0905-sort-array-by-parity](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0905-sort-array-by-parity) |
 | [0976-largest-perimeter-triangle](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0976-largest-perimeter-triangle) |
 | [1051-height-checker](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1051-height-checker) |
 ## Quicksort
@@ -53,6 +55,7 @@
 | [0015-3sum](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0075-sort-colors) |
+| [0905-sort-array-by-parity](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0905-sort-array-by-parity) |
 ## Bit Manipulation
 |  |
 | ------- |

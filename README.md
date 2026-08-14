@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0136-single-number) |
@@ -62,6 +63,7 @@
 | ------- |
 | [0015-3sum](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0075-sort-colors) |
 | [0905-sort-array-by-parity](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0905-sort-array-by-parity) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1346-check-if-n-and-its-double-exist) |

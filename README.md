@@ -10,6 +10,7 @@
 | [0027-remove-element](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0136-single-number) |
 | [0485-max-consecutive-ones](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0485-max-consecutive-ones) |
 | [0905-sort-array-by-parity](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0905-sort-array-by-parity) |
@@ -85,6 +86,7 @@
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Binary Search
 |  |
 | ------- |

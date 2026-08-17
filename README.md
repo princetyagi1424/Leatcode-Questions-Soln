@@ -34,6 +34,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0009-palindrome-number) |
 | [0976-largest-perimeter-triangle](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0976-largest-perimeter-triangle) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1979-find-greatest-common-divisor-of-array) |

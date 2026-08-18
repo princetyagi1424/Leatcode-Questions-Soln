@@ -35,6 +35,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0050-powx-n) |
 | [0976-largest-perimeter-triangle](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0976-largest-perimeter-triangle) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -103,4 +104,8 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0540-single-element-in-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2089-find-target-indices-after-sorting-array) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->

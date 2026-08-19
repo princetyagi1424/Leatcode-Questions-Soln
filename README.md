@@ -13,6 +13,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0136-single-number) |
+| [0189-rotate-array](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0189-rotate-array) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0540-single-element-in-a-sorted-array) |
@@ -36,6 +37,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0050-powx-n) |
+| [0189-rotate-array](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0189-rotate-array) |
 | [0976-largest-perimeter-triangle](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0976-largest-perimeter-triangle) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -76,6 +78,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0075-sort-colors) |
+| [0189-rotate-array](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0189-rotate-array) |
 | [0905-sort-array-by-parity](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0905-sort-array-by-parity) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Bit Manipulation

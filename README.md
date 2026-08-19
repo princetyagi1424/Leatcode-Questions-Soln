@@ -117,4 +117,9 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0242-valid-anagram) |
+| [0796-rotate-string](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0796-rotate-string) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->

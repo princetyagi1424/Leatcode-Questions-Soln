@@ -118,6 +118,7 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0242-valid-anagram) |
+| [0520-detect-capital](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0520-detect-capital) |
 | [0537-complex-number-multiplication](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0537-complex-number-multiplication) |
 | [0796-rotate-string](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0796-rotate-string) |
 ## String Matching

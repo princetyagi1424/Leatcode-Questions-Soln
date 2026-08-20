@@ -39,6 +39,7 @@
 | [0009-palindrome-number](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0189-rotate-array) |
+| [0537-complex-number-multiplication](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0537-complex-number-multiplication) |
 | [0976-largest-perimeter-triangle](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0976-largest-perimeter-triangle) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -117,9 +118,14 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0242-valid-anagram) |
+| [0537-complex-number-multiplication](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0537-complex-number-multiplication) |
 | [0796-rotate-string](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0796-rotate-string) |
 ## String Matching
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0796-rotate-string) |
+## Simulation
+|  |
+| ------- |
+| [0537-complex-number-multiplication](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0537-complex-number-multiplication) |
 <!---LeetCode Topics End-->

@@ -42,10 +42,12 @@
 | [0537-complex-number-multiplication](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0537-complex-number-multiplication) |
 | [0976-largest-perimeter-triangle](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0976-largest-perimeter-triangle) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1952-three-divisors](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Number Theory
 |  |
 | ------- |
+| [1952-three-divisors](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Greedy
 |  |
@@ -129,4 +131,16 @@
 |  |
 | ------- |
 | [0537-complex-number-multiplication](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0537-complex-number-multiplication) |
+## Enumeration
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1952-three-divisors) |
+## Prime Factorization
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1952-three-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->

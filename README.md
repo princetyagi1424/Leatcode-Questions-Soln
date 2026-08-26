@@ -142,6 +142,7 @@
 | [0551-student-attendance-record-i](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0551-student-attendance-record-i) |
 | [0657-robot-return-to-origin](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0796-rotate-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1816-truncate-sentence](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1816-truncate-sentence) |
 ## String Matching
 |  |
@@ -176,4 +177,12 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0005-longest-palindromic-substring) |
+## Stack
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->

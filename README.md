@@ -30,6 +30,7 @@
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1550-three-consecutive-odds](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1550-three-consecutive-odds) |
 | [1652-defuse-the-bomb](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1652-defuse-the-bomb) |
 | [1816-truncate-sentence](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1816-truncate-sentence) |
@@ -185,6 +186,7 @@
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1652-defuse-the-bomb](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1652-defuse-the-bomb) |
 ## Manacher
 |  |
@@ -198,4 +200,8 @@
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Prefix Sum
+|  |
+| ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->

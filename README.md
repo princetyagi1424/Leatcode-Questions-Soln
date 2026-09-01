@@ -22,6 +22,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0540-single-element-in-a-sorted-array) |
+| [0643-maximum-average-subarray-i](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0643-maximum-average-subarray-i) |
 | [0905-sort-array-by-parity](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0905-sort-array-by-parity) |
 | [0976-largest-perimeter-triangle](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0976-largest-perimeter-triangle) |
 | [1051-height-checker](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1051-height-checker) |
@@ -181,6 +182,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0643-maximum-average-subarray-i) |
 | [1652-defuse-the-bomb](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1652-defuse-the-bomb) |
 ## Manacher
 |  |

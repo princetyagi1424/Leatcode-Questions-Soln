@@ -36,6 +36,7 @@
 | [1816-truncate-sentence](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1816-truncate-sentence) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3903-smallest-stable-index-i](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -207,4 +208,5 @@
 |  |
 | ------- |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [3903-smallest-stable-index-i](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->

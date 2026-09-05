@@ -33,6 +33,7 @@
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1550-three-consecutive-odds](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1550-three-consecutive-odds) |
 | [1652-defuse-the-bomb](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1652-defuse-the-bomb) |
+| [1672-richest-customer-wealth](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1672-richest-customer-wealth) |
 | [1816-truncate-sentence](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1816-truncate-sentence) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -228,4 +229,8 @@
 |  |
 | ------- |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2481-minimum-cuts-to-divide-a-circle) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->

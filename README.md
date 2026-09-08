@@ -45,6 +45,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [3903-smallest-stable-index-i](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3903-smallest-stable-index-i) |
+| [3978-unique-middle-element](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3978-unique-middle-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -146,6 +147,7 @@
 | ------- |
 | [1051-height-checker](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [3978-unique-middle-element](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3978-unique-middle-element) |
 ## Dynamic Programming
 |  |
 | ------- |

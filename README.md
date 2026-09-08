@@ -78,6 +78,7 @@
 | [2413-smallest-even-multiple](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2469-convert-the-temperature) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2481-minimum-cuts-to-divide-a-circle) |
+| [2579-count-total-number-of-colored-cells](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2579-count-total-number-of-colored-cells) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3870-count-commas-in-range) |
 ## Number Theory

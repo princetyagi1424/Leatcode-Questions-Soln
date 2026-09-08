@@ -178,6 +178,7 @@
 | [1071-greatest-common-divisor-of-strings](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1678-goal-parser-interpretation](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1678-goal-parser-interpretation) |
 | [1816-truncate-sentence](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1816-truncate-sentence) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## String Matching

@@ -83,6 +83,7 @@
 | [2579-count-total-number-of-colored-cells](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2579-count-total-number-of-colored-cells) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3870-count-commas-in-range) |
+| [3871-count-commas-in-range-ii](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3871-count-commas-in-range-ii) |
 ## Number Theory
 |  |
 | ------- |

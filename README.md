@@ -25,6 +25,7 @@
 | [0485-max-consecutive-ones](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0540-single-element-in-a-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0643-maximum-average-subarray-i) |
+| [0661-image-smoother](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0661-image-smoother) |
 | [0905-sort-array-by-parity](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0905-sort-array-by-parity) |
 | [0976-largest-perimeter-triangle](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0976-largest-perimeter-triangle) |
 | [1051-height-checker](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1051-height-checker) |
@@ -270,6 +271,7 @@
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0463-island-perimeter) |
+| [0661-image-smoother](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0661-image-smoother) |
 | [1672-richest-customer-wealth](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1672-richest-customer-wealth) |
 ## Depth-First Search
 |  |

@@ -26,6 +26,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0540-single-element-in-a-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0643-maximum-average-subarray-i) |
 | [0661-image-smoother](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0661-image-smoother) |
+| [0682-baseball-game](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0682-baseball-game) |
 | [0905-sort-array-by-parity](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0905-sort-array-by-parity) |
 | [0976-largest-perimeter-triangle](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0976-largest-perimeter-triangle) |
 | [1051-height-checker](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1051-height-checker) |
@@ -207,6 +208,7 @@
 | ------- |
 | [0537-complex-number-multiplication](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0537-complex-number-multiplication) |
 | [0657-robot-return-to-origin](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0657-robot-return-to-origin) |
+| [0682-baseball-game](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0682-baseball-game) |
 | [1929-concatenation-of-array](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2390-removing-stars-from-a-string](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2390-removing-stars-from-a-string) |
@@ -245,6 +247,7 @@
 ## Stack
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0682-baseball-game) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2390-removing-stars-from-a-string) |
 ## Bracket Sequences

@@ -48,6 +48,7 @@
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [3483-unique-3-digit-even-numbers](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3483-unique-3-digit-even-numbers) |
 | [3903-smallest-stable-index-i](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3903-smallest-stable-index-i) |
 | [3978-unique-middle-element](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3978-unique-middle-element) |
 ## Hash Table
@@ -64,6 +65,7 @@
 | [1346-check-if-n-and-its-double-exist](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [3483-unique-3-digit-even-numbers](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3483-unique-3-digit-even-numbers) |
 ## Math
 |  |
 | ------- |
@@ -178,6 +180,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0050-powx-n) |
+| [3483-unique-3-digit-even-numbers](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3483-unique-3-digit-even-numbers) |
 ## String
 |  |
 | ------- |
@@ -217,6 +220,7 @@
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1952-three-divisors) |
+| [3483-unique-3-digit-even-numbers](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3483-unique-3-digit-even-numbers) |
 ## Prime Factorization
 |  |
 | ------- |

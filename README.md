@@ -92,6 +92,7 @@
 | [2469-convert-the-temperature](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2469-convert-the-temperature) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2579-count-total-number-of-colored-cells](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2579-count-total-number-of-colored-cells) |
+| [2843-count-symmetric-integers](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2843-count-symmetric-integers) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3871-count-commas-in-range-ii) |
@@ -223,6 +224,7 @@
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1952-three-divisors) |
+| [2843-count-symmetric-integers](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2843-count-symmetric-integers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3483-unique-3-digit-even-numbers) |
 ## Prime Factorization
 |  |

@@ -77,6 +77,7 @@
 | [0171-excel-sheet-column-number](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0189-rotate-array) |
+| [0507-perfect-number](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0507-perfect-number) |
 | [0537-complex-number-multiplication](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0537-complex-number-multiplication) |
 | [0633-sum-of-square-numbers](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0728-self-dividing-numbers) |

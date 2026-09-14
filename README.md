@@ -101,6 +101,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2413-smallest-even-multiple](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2413-smallest-even-multiple) |
+| [2427-number-of-common-factors](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2427-number-of-common-factors) |
 | [2469-convert-the-temperature](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2469-convert-the-temperature) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -118,6 +119,7 @@
 | [1952-three-divisors](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2413-smallest-even-multiple) |
+| [2427-number-of-common-factors](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2427-number-of-common-factors) |
 ## Greedy
 |  |
 | ------- |
@@ -248,6 +250,7 @@
 | ------- |
 | [1925-count-square-sum-triples](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1925-count-square-sum-triples) |
 | [1952-three-divisors](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1952-three-divisors) |
+| [2427-number-of-common-factors](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2427-number-of-common-factors) |
 | [2843-count-symmetric-integers](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2843-count-symmetric-integers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3483-unique-3-digit-even-numbers) |
 ## Prime Factorization
@@ -299,10 +302,12 @@
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1071-greatest-common-divisor-of-strings) |
+| [2427-number-of-common-factors](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2427-number-of-common-factors) |
 ## Greatest Common Divisor
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1071-greatest-common-divisor-of-strings) |
+| [2427-number-of-common-factors](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2427-number-of-common-factors) |
 ## Geometry
 |  |
 | ------- |

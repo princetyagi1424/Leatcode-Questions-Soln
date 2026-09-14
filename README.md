@@ -81,6 +81,7 @@
 | [0171-excel-sheet-column-number](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0189-rotate-array) |
+| [0292-nim-game](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0292-nim-game) |
 | [0507-perfect-number](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0507-perfect-number) |
 | [0537-complex-number-multiplication](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0537-complex-number-multiplication) |
 | [0633-sum-of-square-numbers](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0633-sum-of-square-numbers) |
@@ -329,4 +330,24 @@
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0463-island-perimeter) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->

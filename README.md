@@ -40,6 +40,7 @@
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1470-shuffle-the-array) |
+| [1512-number-of-good-pairs](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1512-number-of-good-pairs) |
 | [1550-three-consecutive-odds](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1550-three-consecutive-odds) |
 | [1652-defuse-the-bomb](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1652-defuse-the-bomb) |
 | [1672-richest-customer-wealth](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1672-richest-customer-wealth) |
@@ -70,6 +71,7 @@
 | [1346-check-if-n-and-its-double-exist](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1512-number-of-good-pairs](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1512-number-of-good-pairs) |
 | [2965-find-missing-and-repeated-values](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2965-find-missing-and-repeated-values) |
 | [3483-unique-3-digit-even-numbers](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3483-unique-3-digit-even-numbers) |
 ## Math
@@ -94,6 +96,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1248-count-number-of-nice-subarrays) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1512-number-of-good-pairs](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1512-number-of-good-pairs) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1837-sum-of-digits-in-base-k](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1837-sum-of-digits-in-base-k) |
 | [1903-largest-odd-number-in-string](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1903-largest-odd-number-in-string) |
@@ -186,6 +189,7 @@
 | ------- |
 | [1051-height-checker](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1512-number-of-good-pairs](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1512-number-of-good-pairs) |
 | [3978-unique-middle-element](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3978-unique-middle-element) |
 ## Dynamic Programming
 |  |

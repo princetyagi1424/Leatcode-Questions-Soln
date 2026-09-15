@@ -52,6 +52,7 @@
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2965-find-missing-and-repeated-values](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2965-find-missing-and-repeated-values) |
 | [3024-type-of-triangle](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3024-type-of-triangle) |
 | [3483-unique-3-digit-even-numbers](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3483-unique-3-digit-even-numbers) |
@@ -111,6 +112,7 @@
 | [2180-count-integers-with-even-digit-sum](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2413-smallest-even-multiple](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2427-number-of-common-factors) |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2469-convert-the-temperature](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2469-convert-the-temperature) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2520-count-the-digits-that-divide-a-number) |

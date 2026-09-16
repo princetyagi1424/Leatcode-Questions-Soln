@@ -124,6 +124,7 @@
 | [3697-compute-decimal-representation](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3697-compute-decimal-representation) |
 | [3870-count-commas-in-range](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3871-count-commas-in-range-ii) |
+| [4000-largest-integer-with-given-digit-sum](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Number Theory
 |  |
 | ------- |
@@ -140,6 +141,7 @@
 | [1903-largest-odd-number-in-string](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1903-largest-odd-number-in-string) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [4000-largest-integer-with-given-digit-sum](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Sorting
 |  |
 | ------- |

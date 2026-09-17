@@ -90,6 +90,7 @@
 | [0189-rotate-array](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0189-rotate-array) |
 | [0292-nim-game](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0292-nim-game) |
 | [0492-construct-the-rectangle](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0492-construct-the-rectangle) |
+| [0504-base-7](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0507-perfect-number) |
 | [0537-complex-number-multiplication](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0537-complex-number-multiplication) |
 | [0633-sum-of-square-numbers](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0633-sum-of-square-numbers) |
@@ -243,6 +244,7 @@
 | [0171-excel-sheet-column-number](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0424-longest-repeating-character-replacement) |
+| [0504-base-7](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0504-base-7) |
 | [0520-detect-capital](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0520-detect-capital) |
 | [0537-complex-number-multiplication](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0537-complex-number-multiplication) |
 | [0551-student-attendance-record-i](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0551-student-attendance-record-i) |

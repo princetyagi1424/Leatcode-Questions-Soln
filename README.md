@@ -95,6 +95,7 @@
 | [0812-largest-triangle-area](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0812-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0836-rectangle-overlap) |
 | [0976-largest-perimeter-triangle](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0976-largest-perimeter-triangle) |
+| [1025-divisor-game](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1025-divisor-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1185-day-of-the-week](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1185-day-of-the-week) |
 | [1248-count-number-of-nice-subarrays](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1248-count-number-of-nice-subarrays) |
@@ -216,6 +217,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0152-maximum-product-subarray) |
+| [1025-divisor-game](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1025-divisor-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -359,6 +361,7 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1025-divisor-game) |
 ## Minimax
 |  |
 | ------- |
@@ -367,6 +370,7 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1025-divisor-game) |
 ## Nim Game
 |  |
 | ------- |
@@ -375,4 +379,5 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->

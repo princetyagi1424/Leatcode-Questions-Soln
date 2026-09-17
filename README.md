@@ -122,6 +122,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2396-strictly-palindromic-number](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2427-number-of-common-factors) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -200,6 +201,7 @@
 | [0905-sort-array-by-parity](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0905-sort-array-by-parity) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1768-merge-strings-alternately](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1768-merge-strings-alternately) |
+| [2396-strictly-palindromic-number](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2396-strictly-palindromic-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -375,6 +377,7 @@
 | ------- |
 | [0292-nim-game](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1025-divisor-game) |
+| [2396-strictly-palindromic-number](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2396-strictly-palindromic-number) |
 ## Minimax
 |  |
 | ------- |

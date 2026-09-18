@@ -45,6 +45,7 @@
 | [1389-create-target-array-in-the-given-order](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1389-create-target-array-in-the-given-order) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1470-shuffle-the-array](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1512-number-of-good-pairs) |
 | [1550-three-consecutive-odds](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1550-three-consecutive-odds) |

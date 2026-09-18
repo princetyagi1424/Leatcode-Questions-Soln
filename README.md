@@ -48,6 +48,7 @@
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1470-shuffle-the-array](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1512-number-of-good-pairs) |
+| [1534-count-good-triplets](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1534-count-good-triplets) |
 | [1550-three-consecutive-odds](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1550-three-consecutive-odds) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1652-defuse-the-bomb](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1652-defuse-the-bomb) |
@@ -299,6 +300,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [1534-count-good-triplets](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1534-count-good-triplets) |
 | [1925-count-square-sum-triples](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1925-count-square-sum-triples) |
 | [1952-three-divisors](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1952-three-divisors) |
 | [2427-number-of-common-factors](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2427-number-of-common-factors) |

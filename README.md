@@ -42,6 +42,7 @@
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1389-create-target-array-in-the-given-order](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1389-create-target-array-in-the-given-order) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1470-shuffle-the-array) |
@@ -286,6 +287,7 @@
 | [0537-complex-number-multiplication](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0537-complex-number-multiplication) |
 | [0657-robot-return-to-origin](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0682-baseball-game) |
+| [1389-create-target-array-in-the-given-order](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1389-create-target-array-in-the-given-order) |
 | [1518-water-bottles](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1518-water-bottles) |
 | [1688-count-of-matches-in-tournament](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1688-count-of-matches-in-tournament) |
 | [1929-concatenation-of-array](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1929-concatenation-of-array) |

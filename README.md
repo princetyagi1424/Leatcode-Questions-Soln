@@ -30,6 +30,7 @@
 | [0682-baseball-game](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0682-baseball-game) |
 | [0812-largest-triangle-area](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0812-largest-triangle-area) |
 | [0905-sort-array-by-parity](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0905-sort-array-by-parity) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0976-largest-perimeter-triangle](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0976-largest-perimeter-triangle) |
 | [1051-height-checker](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1051-height-checker) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1232-check-if-it-is-a-straight-line) |
@@ -73,6 +74,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0771-jewels-and-stones](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0771-jewels-and-stones) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1248-count-number-of-nice-subarrays](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1248-count-number-of-nice-subarrays) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -398,4 +400,8 @@
 | ------- |
 | [0292-nim-game](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1025-divisor-game) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0961-n-repeated-element-in-size-2n-array) |
 <!---LeetCode Topics End-->

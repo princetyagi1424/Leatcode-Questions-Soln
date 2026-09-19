@@ -31,6 +31,7 @@
 | [0682-baseball-game](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0682-baseball-game) |
 | [0812-largest-triangle-area](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0812-largest-triangle-area) |
 | [0905-sort-array-by-parity](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0905-sort-array-by-parity) |
+| [0929-unique-email-addresses](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0929-unique-email-addresses) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0976-largest-perimeter-triangle](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0977-squares-of-a-sorted-array) |
@@ -84,6 +85,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0771-jewels-and-stones](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0771-jewels-and-stones) |
+| [0929-unique-email-addresses](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0929-unique-email-addresses) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1248-count-number-of-nice-subarrays](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1248-count-number-of-nice-subarrays) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -281,6 +283,7 @@
 | [0657-robot-return-to-origin](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0657-robot-return-to-origin) |
 | [0771-jewels-and-stones](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0796-rotate-string) |
+| [0929-unique-email-addresses](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0929-unique-email-addresses) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |

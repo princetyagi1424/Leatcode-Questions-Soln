@@ -57,6 +57,7 @@
 | [1725-number-of-rectangles-that-can-form-the-largest-square](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1725-number-of-rectangles-that-can-form-the-largest-square) |
 | [1816-truncate-sentence](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1816-truncate-sentence) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1929-concatenation-of-array](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -124,6 +125,7 @@
 | [1812-determine-color-of-a-chessboard-square](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1837-sum-of-digits-in-base-k](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1837-sum-of-digits-in-base-k) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1903-largest-odd-number-in-string](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1903-largest-odd-number-in-string) |
 | [1925-count-square-sum-triples](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1925-count-square-sum-triples) |
 | [1952-three-divisors](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1952-three-divisors) |
@@ -218,6 +220,7 @@
 | ------- |
 | [0136-single-number](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0136-single-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Bubble Sort
 |  |
 | ------- |
@@ -304,6 +307,7 @@
 |  |
 | ------- |
 | [1534-count-good-triplets](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1534-count-good-triplets) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1925-count-square-sum-triples](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1925-count-square-sum-triples) |
 | [1952-three-divisors](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1952-three-divisors) |
 | [2427-number-of-common-factors](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2427-number-of-common-factors) |
@@ -415,4 +419,12 @@
 |  |
 | ------- |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0961-n-repeated-element-in-size-2n-array) |
+## Backtracking
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Combinatorics
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->

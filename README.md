@@ -31,6 +31,7 @@
 | [0682-baseball-game](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0682-baseball-game) |
 | [0812-largest-triangle-area](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0812-largest-triangle-area) |
 | [0905-sort-array-by-parity](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0905-sort-array-by-parity) |
+| [0908-smallest-range-i](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0908-smallest-range-i) |
 | [0929-unique-email-addresses](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0929-unique-email-addresses) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0976-largest-perimeter-triangle](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0976-largest-perimeter-triangle) |
@@ -114,6 +115,7 @@
 | [0728-self-dividing-numbers](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0728-self-dividing-numbers) |
 | [0812-largest-triangle-area](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0812-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0836-rectangle-overlap) |
+| [0908-smallest-range-i](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0908-smallest-range-i) |
 | [0976-largest-perimeter-triangle](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0976-largest-perimeter-triangle) |
 | [1025-divisor-game](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1025-divisor-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1071-greatest-common-divisor-of-strings) |

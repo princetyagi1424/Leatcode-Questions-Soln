@@ -22,6 +22,7 @@
 | [0219-contains-duplicate-ii](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0463-island-perimeter](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0540-single-element-in-a-sorted-array) |
@@ -87,6 +88,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0771-jewels-and-stones](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0771-jewels-and-stones) |
 | [0929-unique-email-addresses](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0929-unique-email-addresses) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0961-n-repeated-element-in-size-2n-array) |

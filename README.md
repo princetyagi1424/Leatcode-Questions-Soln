@@ -298,6 +298,7 @@
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2390-removing-stars-from-a-string](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2390-removing-stars-from-a-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3498-reverse-degree-of-a-string) |
 | [3986-number-of-elapsed-seconds-between-two-times](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
 ## String Matching
 |  |
@@ -317,6 +318,7 @@
 | [2169-count-operations-to-obtain-zero](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2169-count-operations-to-obtain-zero) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2390-removing-stars-from-a-string](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2390-removing-stars-from-a-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3498-reverse-degree-of-a-string) |
 ## Enumeration
 |  |
 | ------- |

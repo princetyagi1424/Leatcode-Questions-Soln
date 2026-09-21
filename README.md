@@ -60,6 +60,7 @@
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1512-number-of-good-pairs](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1512-number-of-good-pairs) |
 | [1534-count-good-triplets](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1534-count-good-triplets) |
+| [1539-kth-missing-positive-number](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1539-kth-missing-positive-number) |
 | [1550-three-consecutive-odds](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1550-three-consecutive-odds) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1652-defuse-the-bomb](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1652-defuse-the-bomb) |
@@ -286,6 +287,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0633-sum-of-square-numbers) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1539-kth-missing-positive-number](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1539-kth-missing-positive-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Recursion

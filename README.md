@@ -56,6 +56,7 @@
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1470-shuffle-the-array) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1512-number-of-good-pairs](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1512-number-of-good-pairs) |
 | [1534-count-good-triplets](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1534-count-good-triplets) |
 | [1550-three-consecutive-odds](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1550-three-consecutive-odds) |
@@ -209,6 +210,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |

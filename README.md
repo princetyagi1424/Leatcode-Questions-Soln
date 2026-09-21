@@ -50,6 +50,7 @@
 | [1346-check-if-n-and-its-double-exist](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1389-create-target-array-in-the-given-order) |
+| [1390-four-divisors](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1390-four-divisors) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
@@ -137,6 +138,7 @@
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1323-maximum-69-number](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1323-maximum-69-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1390-four-divisors](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1390-four-divisors) |
 | [1512-number-of-good-pairs](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1512-number-of-good-pairs) |
 | [1518-water-bottles](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1518-water-bottles) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -354,10 +356,12 @@
 ## Prime Factorization
 |  |
 | ------- |
+| [1390-four-divisors](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1390-four-divisors) |
 | [1952-three-divisors](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1952-three-divisors) |
 ## Sieve Theory
 |  |
 | ------- |
+| [1390-four-divisors](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1390-four-divisors) |
 | [1952-three-divisors](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1952-three-divisors) |
 ## Divide and Conquer
 |  |

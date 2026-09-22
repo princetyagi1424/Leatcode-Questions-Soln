@@ -22,6 +22,7 @@
 | [0189-rotate-array](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0463-island-perimeter](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0463-island-perimeter) |
@@ -210,6 +211,7 @@
 | [0075-sort-colors](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0561-array-partition](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0628-maximum-product-of-three-numbers) |

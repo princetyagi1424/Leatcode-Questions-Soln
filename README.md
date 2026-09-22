@@ -144,6 +144,7 @@
 | [1323-maximum-69-number](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1323-maximum-69-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1390-four-divisors](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1390-four-divisors) |
+| [1486-xor-operation-in-an-array](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1512-number-of-good-pairs) |
 | [1518-water-bottles](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1518-water-bottles) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -259,6 +260,7 @@
 | ------- |
 | [0136-single-number](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0136-single-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1486-xor-operation-in-an-array](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1486-xor-operation-in-an-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Bubble Sort
 |  |

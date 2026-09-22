@@ -33,6 +33,7 @@
 | [0661-image-smoother](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0661-image-smoother) |
 | [0682-baseball-game](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0682-baseball-game) |
 | [0812-largest-triangle-area](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0812-largest-triangle-area) |
+| [0875-koko-eating-bananas](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0875-koko-eating-bananas) |
 | [0905-sort-array-by-parity](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0905-sort-array-by-parity) |
 | [0908-smallest-range-i](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0908-smallest-range-i) |
 | [0929-unique-email-addresses](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0929-unique-email-addresses) |
@@ -288,6 +289,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0633-sum-of-square-numbers) |
+| [0875-koko-eating-bananas](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0875-koko-eating-bananas) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1539-kth-missing-positive-number](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1539-kth-missing-positive-number) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |

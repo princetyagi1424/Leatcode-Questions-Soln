@@ -46,6 +46,7 @@
 | [1051-height-checker](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1089-duplicate-zeros) |
 | [1122-relative-sort-array](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1122-relative-sort-array) |
+| [1184-distance-between-bus-stops](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1184-distance-between-bus-stops) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1248-count-number-of-nice-subarrays](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1248-count-number-of-nice-subarrays) |
 | [1266-minimum-time-visiting-all-points](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1266-minimum-time-visiting-all-points) |

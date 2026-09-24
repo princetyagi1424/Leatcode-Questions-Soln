@@ -179,6 +179,7 @@
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2544-alternating-digit-sum](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2544-alternating-digit-sum) |
 | [2579-count-total-number-of-colored-cells](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2579-count-total-number-of-colored-cells) |
 | [2843-count-symmetric-integers](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2843-count-symmetric-integers) |
 | [2965-find-missing-and-repeated-values](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2965-find-missing-and-repeated-values) |

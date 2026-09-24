@@ -89,6 +89,7 @@
 | [2965-find-missing-and-repeated-values](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2965-find-missing-and-repeated-values) |
 | [3024-type-of-triangle](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3024-type-of-triangle) |
 | [3483-unique-3-digit-even-numbers](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3483-unique-3-digit-even-numbers) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3663-find-the-least-frequent-digit](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3663-find-the-least-frequent-digit) |
 | [3697-compute-decimal-representation](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3697-compute-decimal-representation) |
 | [3903-smallest-stable-index-i](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3903-smallest-stable-index-i) |
@@ -179,6 +180,7 @@
 | [2843-count-symmetric-integers](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2843-count-symmetric-integers) |
 | [2965-find-missing-and-repeated-values](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2965-find-missing-and-repeated-values) |
 | [3024-type-of-triangle](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3024-type-of-triangle) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3663-find-the-least-frequent-digit](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3663-find-the-least-frequent-digit) |

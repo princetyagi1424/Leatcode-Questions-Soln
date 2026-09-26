@@ -196,6 +196,7 @@
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -366,6 +367,7 @@
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2390-removing-stars-from-a-string](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2390-removing-stars-from-a-string) |
+| [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3498-reverse-degree-of-a-string](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3498-reverse-degree-of-a-string) |
 | [3986-number-of-elapsed-seconds-between-two-times](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
 ## String Matching

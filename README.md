@@ -92,6 +92,7 @@
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3663-find-the-least-frequent-digit](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3663-find-the-least-frequent-digit) |
@@ -194,6 +195,7 @@
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -385,6 +387,7 @@
 | [2180-count-integers-with-even-digit-sum](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2390-removing-stars-from-a-string](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2390-removing-stars-from-a-string) |
 | [2739-total-distance-traveled](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2739-total-distance-traveled) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3498-reverse-degree-of-a-string) |
 ## Enumeration
 |  |
@@ -524,4 +527,5 @@
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 <!---LeetCode Topics End-->

@@ -201,6 +201,7 @@
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3280-convert-date-to-binary](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3280-convert-date-to-binary) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -405,6 +406,7 @@
 | [1952-three-divisors](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1952-three-divisors) |
 | [2427-number-of-common-factors](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2427-number-of-common-factors) |
 | [2843-count-symmetric-integers](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2843-count-symmetric-integers) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3483-unique-3-digit-even-numbers) |
 ## Prime Factorization
 |  |

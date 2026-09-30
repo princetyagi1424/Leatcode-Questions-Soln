@@ -19,6 +19,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0152-maximum-product-subarray) |
+| [0169-majority-element](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0349-intersection-of-two-arrays) |
@@ -106,6 +107,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0041-first-missing-positive) |
+| [0169-majority-element](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0349-intersection-of-two-arrays) |
@@ -240,6 +242,7 @@
 | ------- |
 | [0015-3sum](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0414-third-maximum-number) |
@@ -311,6 +314,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0169-majority-element) |
 | [0561-array-partition](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0561-array-partition) |
 | [1051-height-checker](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1122-relative-sort-array) |
@@ -427,6 +431,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0169-majority-element) |
 ## Sliding Window
 |  |
 | ------- |
@@ -542,4 +547,8 @@
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->

@@ -354,6 +354,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0005-longest-palindromic-substring) |
+| [0020-valid-parentheses](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0020-valid-parentheses) |
 | [0168-excel-sheet-column-title](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0242-valid-anagram) |
@@ -452,6 +453,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0682-baseball-game) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -459,6 +461,7 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0020-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Prefix Sum
 |  |

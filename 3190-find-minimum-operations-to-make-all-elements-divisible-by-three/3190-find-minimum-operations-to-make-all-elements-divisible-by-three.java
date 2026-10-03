@@ -4,9 +4,12 @@ class Solution {
         for(int n:nums){
             int r=n%3;
             if(r!=0){
-                ans+=Math.min(r,3-r);
+                ans  +=  Math.min(r,3-r);
             }
+
         }
+
+
         return ans;
     }
 }

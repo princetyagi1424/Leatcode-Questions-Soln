@@ -100,6 +100,7 @@
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3663-find-the-least-frequent-digit](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3663-find-the-least-frequent-digit) |
 | [3697-compute-decimal-representation](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3697-compute-decimal-representation) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3903-smallest-stable-index-i](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3903-smallest-stable-index-i) |
 | [3978-unique-middle-element](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3978-unique-middle-element) |
 ## Hash Table
@@ -129,6 +130,7 @@
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3483-unique-3-digit-even-numbers](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3483-unique-3-digit-even-numbers) |
 | [3663-find-the-least-frequent-digit](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3663-find-the-least-frequent-digit) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Math
 |  |
 | ------- |

@@ -368,6 +368,7 @@
 | [0657-robot-return-to-origin](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0657-robot-return-to-origin) |
 | [0771-jewels-and-stones](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0796-rotate-string) |
+| [0856-score-of-parentheses](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0856-score-of-parentheses) |
 | [0929-unique-email-addresses](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0929-unique-email-addresses) |
 | [0942-di-string-match](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0942-di-string-match) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -458,12 +459,14 @@
 | [0020-valid-parentheses](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0682-baseball-game) |
+| [0856-score-of-parentheses](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0856-score-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2390-removing-stars-from-a-string) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0020-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0856-score-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Prefix Sum
 |  |

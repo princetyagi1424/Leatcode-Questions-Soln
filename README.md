@@ -97,6 +97,7 @@
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3483-unique-3-digit-even-numbers](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3483-unique-3-digit-even-numbers) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3663-find-the-least-frequent-digit](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3663-find-the-least-frequent-digit) |
 | [3697-compute-decimal-representation](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3697-compute-decimal-representation) |
@@ -210,6 +211,7 @@
 | [3370-smallest-number-with-all-set-bits](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3492-maximum-containers-on-a-ship](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3492-maximum-containers-on-a-ship) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3658-gcd-of-odd-and-even-sums) |

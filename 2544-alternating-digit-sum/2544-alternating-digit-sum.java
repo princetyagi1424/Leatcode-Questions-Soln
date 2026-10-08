@@ -21,6 +21,9 @@ class Solution {
                 else
                     sum -= digit;
             }
+
+
+            
             count++;
             n /= 10;
         }

@@ -51,6 +51,7 @@
 | [1232-check-if-it-is-a-straight-line](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1248-count-number-of-nice-subarrays](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1248-count-number-of-nice-subarrays) |
 | [1266-minimum-time-visiting-all-points](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1266-minimum-time-visiting-all-points) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1313-decompress-run-length-encoded-list](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1313-decompress-run-length-encoded-list) |
@@ -346,6 +347,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0633-sum-of-square-numbers) |
 | [0875-koko-eating-bananas](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0875-koko-eating-bananas) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1539-kth-missing-positive-number](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1539-kth-missing-positive-number) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |

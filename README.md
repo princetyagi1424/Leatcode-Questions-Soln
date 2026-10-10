@@ -86,6 +86,7 @@
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -242,6 +243,7 @@
 | [1323-maximum-69-number](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1323-maximum-69-number) |
 | [1903-largest-odd-number-in-string](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1903-largest-odd-number-in-string) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [4000-largest-integer-with-given-digit-sum](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Sorting
@@ -270,6 +272,7 @@
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [3024-type-of-triangle](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3024-type-of-triangle) |
 ## Quicksort
@@ -352,6 +355,7 @@
 | [1539-kth-missing-positive-number](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1539-kth-missing-positive-number) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Recursion
 |  |
@@ -560,6 +564,7 @@
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |

@@ -311,6 +311,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0191-number-of-1-bits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1486-xor-operation-in-an-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -446,6 +447,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0191-number-of-1-bits) |
 ## Sliding Window
 |  |
 | ------- |

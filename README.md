@@ -572,4 +572,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0169-majority-element) |
+## Database
+|  |
+| ------- |
+| [0197-rising-temperature](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->

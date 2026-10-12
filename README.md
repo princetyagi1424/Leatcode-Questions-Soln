@@ -221,6 +221,7 @@
 | [3658-gcd-of-odd-and-even-sums](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3663-find-the-least-frequent-digit](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3663-find-the-least-frequent-digit) |
 | [3697-compute-decimal-representation](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3697-compute-decimal-representation) |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3870-count-commas-in-range](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3871-count-commas-in-range-ii) |
 | [3986-number-of-elapsed-seconds-between-two-times](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
@@ -422,6 +423,7 @@
 | [2739-total-distance-traveled](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2739-total-distance-traveled) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3498-reverse-degree-of-a-string) |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3726-remove-zeros-in-decimal-representation) |
 ## Enumeration
 |  |
 | ------- |

@@ -228,6 +228,7 @@
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3870-count-commas-in-range](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3871-count-commas-in-range-ii) |
+| [3894-traffic-signal-color](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3894-traffic-signal-color) |
 | [3986-number-of-elapsed-seconds-between-two-times](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
 | [4000-largest-integer-with-given-digit-sum](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Number Theory
@@ -406,6 +407,7 @@
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3280-convert-date-to-binary](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3280-convert-date-to-binary) |
 | [3498-reverse-degree-of-a-string](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3498-reverse-degree-of-a-string) |
+| [3894-traffic-signal-color](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3894-traffic-signal-color) |
 | [3986-number-of-elapsed-seconds-between-two-times](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
 ## String Matching
 |  |
@@ -429,6 +431,7 @@
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3498-reverse-degree-of-a-string) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3726-remove-zeros-in-decimal-representation) |
+| [3894-traffic-signal-color](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3894-traffic-signal-color) |
 ## Enumeration
 |  |
 | ------- |

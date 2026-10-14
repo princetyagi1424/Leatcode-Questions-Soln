@@ -37,6 +37,7 @@
 | [0682-baseball-game](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0682-baseball-game) |
 | [0812-largest-triangle-area](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0812-largest-triangle-area) |
 | [0875-koko-eating-bananas](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0875-koko-eating-bananas) |
+| [0896-monotonic-array](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0905-sort-array-by-parity) |
 | [0908-smallest-range-i](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0908-smallest-range-i) |
 | [0929-unique-email-addresses](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0929-unique-email-addresses) |

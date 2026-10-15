@@ -26,6 +26,7 @@
 | [0414-third-maximum-number](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0456-132-pattern](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0456-132-pattern) |
 | [0463-island-perimeter](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0496-next-greater-element-i) |
@@ -358,6 +359,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0004-median-of-two-sorted-arrays) |
 | [0349-intersection-of-two-arrays](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0349-intersection-of-two-arrays) |
+| [0456-132-pattern](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0456-132-pattern) |
 | [0540-single-element-in-a-sorted-array](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0633-sum-of-square-numbers) |
 | [0875-koko-eating-bananas](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0875-koko-eating-bananas) |
@@ -483,6 +485,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0020-valid-parentheses) |
+| [0456-132-pattern](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0682-baseball-game) |
 | [0856-score-of-parentheses](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0856-score-of-parentheses) |
@@ -575,6 +578,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0496-next-greater-element-i) |
 ## Heap (Priority Queue)
 |  |
@@ -590,4 +594,8 @@
 |  |
 | ------- |
 | [0197-rising-temperature](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0197-rising-temperature) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->

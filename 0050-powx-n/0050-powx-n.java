@@ -1,22 +1,20 @@
 class Solution {
     public double myPow(double x, int n) {
-        long power = n;
-
-        if(power < 0){
-            x = 1 / x;
-            power = -power;
+        long N=n;
+        double ans=pow(x, Math.abs(N));
+        if (N <0) {
+            return 1.0 / ans;
         }
-
-        double result = 1;
-
-        while(power > 0){
-            if(power % 2 == 1){
-                result = result * x;
-            }
-            x = x * x;
-            power = power / 2;
+        return ans;
+    }
+    public static double pow(double x,long n){
+        if(n==0){
+            return 1.0;
         }
-
-        return result;
+        double half=pow(x,n/2);
+        if(n%2==0){
+            return half*half;
+        }
+        return half*half*x;
     }
 }

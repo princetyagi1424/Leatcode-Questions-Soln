@@ -315,6 +315,7 @@
 | [0075-sort-colors](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0392-is-subsequence) |
 | [0633-sum-of-square-numbers](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0633-sum-of-square-numbers) |
 | [0905-sort-array-by-parity](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0905-sort-array-by-parity) |
 | [0942-di-string-match](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0942-di-string-match) |
@@ -361,6 +362,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0392-is-subsequence) |
 | [1025-divisor-game](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1025-divisor-game) |
 ## Binary Search
 |  |
@@ -392,6 +394,7 @@
 | [0171-excel-sheet-column-number](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0290-word-pattern) |
+| [0392-is-subsequence](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0424-longest-repeating-character-replacement) |
 | [0500-keyboard-row](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0500-keyboard-row) |
 | [0504-base-7](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0504-base-7) |

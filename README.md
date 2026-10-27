@@ -11,6 +11,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0066-plus-one) |
@@ -592,6 +593,7 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0040-combination-sum-ii) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Combinatorics
 |  |

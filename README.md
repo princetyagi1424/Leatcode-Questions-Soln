@@ -361,6 +361,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -395,6 +396,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0022-generate-parentheses) |
 | [0168-excel-sheet-column-title](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0242-valid-anagram) |
@@ -517,6 +519,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0022-generate-parentheses) |
 | [0856-score-of-parentheses](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0856-score-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Prefix Sum
@@ -593,6 +596,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0040-combination-sum-ii) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1863-sum-of-all-subset-xor-totals) |

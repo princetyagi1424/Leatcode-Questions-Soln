@@ -113,6 +113,7 @@
 | [3697-compute-decimal-representation](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3697-compute-decimal-representation) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3903-smallest-stable-index-i](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3903-smallest-stable-index-i) |
 | [3978-unique-middle-element](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3978-unique-middle-element) |
 ## Hash Table
@@ -340,6 +341,7 @@
 | [1486-xor-operation-in-an-array](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1486-xor-operation-in-an-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3370-smallest-number-with-all-set-bits) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Bubble Sort
 |  |
 | ------- |
@@ -433,6 +435,7 @@
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3280-convert-date-to-binary](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3280-convert-date-to-binary) |
 | [3498-reverse-degree-of-a-string](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3498-reverse-degree-of-a-string) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3894-traffic-signal-color](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3894-traffic-signal-color) |
 | [3986-number-of-elapsed-seconds-between-two-times](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
@@ -488,6 +491,7 @@
 | [0053-maximum-subarray](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0191-number-of-1-bits) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Sliding Window
 |  |
 | ------- |
@@ -561,6 +565,7 @@
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0463-island-perimeter) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -627,4 +632,16 @@
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0456-132-pattern) |
+## Tree
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Segment Tree
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3841-palindromic-path-queries-in-a-tree) |
 <!---LeetCode Topics End-->

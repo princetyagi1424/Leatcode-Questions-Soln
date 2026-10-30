@@ -314,6 +314,7 @@
 | [0005-longest-palindromic-substring](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0015-3sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0075-sort-colors) |
@@ -644,4 +645,8 @@
 |  |
 | ------- |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->

@@ -29,6 +29,7 @@
 | [0414-third-maximum-number](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0456-132-pattern](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0456-132-pattern) |
 | [0463-island-perimeter](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0485-max-consecutive-ones) |
@@ -158,6 +159,7 @@
 | [0189-rotate-array](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0292-nim-game) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0492-construct-the-rectangle](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0492-construct-the-rectangle) |
 | [0504-base-7](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0507-perfect-number) |

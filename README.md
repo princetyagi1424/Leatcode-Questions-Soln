@@ -108,6 +108,7 @@
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3483-unique-3-digit-even-numbers](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3483-unique-3-digit-even-numbers) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3663-find-the-least-frequent-digit](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3663-find-the-least-frequent-digit) |
@@ -145,6 +146,7 @@
 | [2965-find-missing-and-repeated-values](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2965-find-missing-and-repeated-values) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3483-unique-3-digit-even-numbers](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3483-unique-3-digit-even-numbers) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3663-find-the-least-frequent-digit](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3663-find-the-least-frequent-digit) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Math
@@ -228,6 +230,7 @@
 | [3370-smallest-number-with-all-set-bits](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3492-maximum-containers-on-a-ship](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3492-maximum-containers-on-a-ship) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3516-find-closest-person](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3516-find-closest-person) |
 | [3536-maximum-product-of-two-digits](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3536-maximum-product-of-two-digits) |
@@ -375,6 +378,7 @@
 | [0338-counting-bits](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0392-is-subsequence) |
 | [1025-divisor-game](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1025-divisor-game) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Binary Search
 |  |
 | ------- |
@@ -509,6 +513,7 @@
 | [1652-defuse-the-bomb](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1652-defuse-the-bomb) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2269-find-the-k-beauty-of-a-number) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Manacher
 |  |
 | ------- |
@@ -624,6 +629,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |

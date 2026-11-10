@@ -113,6 +113,7 @@
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3663-find-the-least-frequent-digit](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3663-find-the-least-frequent-digit) |
+| [3693-climbing-stairs-ii](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3693-climbing-stairs-ii) |
 | [3697-compute-decimal-representation](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3697-compute-decimal-representation) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -383,6 +384,7 @@
 | [0392-is-subsequence](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0392-is-subsequence) |
 | [1025-divisor-game](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1025-divisor-game) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+| [3693-climbing-stairs-ii](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3693-climbing-stairs-ii) |
 ## Binary Search
 |  |
 | ------- |

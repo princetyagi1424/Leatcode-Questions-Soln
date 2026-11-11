@@ -244,6 +244,7 @@
 | [3726-remove-zeros-in-decimal-representation](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3870-count-commas-in-range](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3871-count-commas-in-range-ii) |
 | [3894-traffic-signal-color](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3894-traffic-signal-color) |
@@ -272,6 +273,7 @@
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [4000-largest-integer-with-given-digit-sum](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Sorting
 |  |

@@ -447,6 +447,7 @@
 | [1903-largest-odd-number-in-string](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1903-largest-odd-number-in-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2390-removing-stars-from-a-string](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2390-removing-stars-from-a-string) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
@@ -475,6 +476,7 @@
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2169-count-operations-to-obtain-zero](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2169-count-operations-to-obtain-zero) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2390-removing-stars-from-a-string) |
 | [2739-total-distance-traveled](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2739-total-distance-traveled) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |

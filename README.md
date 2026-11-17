@@ -345,6 +345,7 @@
 | [1768-merge-strings-alternately](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1768-merge-strings-alternately) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2396-strictly-palindromic-number](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2396-strictly-palindromic-number) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -386,6 +387,7 @@
 | [0338-counting-bits](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0392-is-subsequence) |
 | [1025-divisor-game](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1025-divisor-game) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3693-climbing-stairs-ii](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3693-climbing-stairs-ii) |
 ## Binary Search
@@ -451,6 +453,7 @@
 | [2269-find-the-k-beauty-of-a-number](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2390-removing-stars-from-a-string](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2390-removing-stars-from-a-string) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3280-convert-date-to-binary](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3280-convert-date-to-binary) |
 | [3498-reverse-degree-of-a-string](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3498-reverse-degree-of-a-string) |

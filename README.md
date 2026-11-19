@@ -99,6 +99,7 @@
 | [2389-longest-subsequence-with-limited-sum](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2574-left-and-right-sum-differences](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2574-left-and-right-sum-differences) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2965-find-missing-and-repeated-values](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2965-find-missing-and-repeated-values) |
@@ -275,6 +276,7 @@
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [4000-largest-integer-with-given-digit-sum](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Sorting
@@ -306,6 +308,7 @@
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3024-type-of-triangle](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3024-type-of-triangle) |
 | [3536-maximum-product-of-two-digits](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3536-maximum-product-of-two-digits) |
 ## Quicksort

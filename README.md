@@ -459,6 +459,7 @@
 | [2390-removing-stars-from-a-string](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2390-removing-stars-from-a-string) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [3174-clear-digits](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3174-clear-digits) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3280-convert-date-to-binary](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3280-convert-date-to-binary) |
 | [3498-reverse-degree-of-a-string](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3498-reverse-degree-of-a-string) |
@@ -488,6 +489,7 @@
 | [2243-calculate-digit-sum-of-a-string](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2390-removing-stars-from-a-string) |
 | [2739-total-distance-traveled](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2739-total-distance-traveled) |
+| [3174-clear-digits](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3174-clear-digits) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3498-reverse-degree-of-a-string) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3726-remove-zeros-in-decimal-representation) |
@@ -552,6 +554,7 @@
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2390-removing-stars-from-a-string) |
+| [3174-clear-digits](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3174-clear-digits) |
 ## Bracket Sequences
 |  |
 | ------- |

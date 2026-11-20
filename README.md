@@ -441,6 +441,7 @@
 | [0856-score-of-parentheses](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0856-score-of-parentheses) |
 | [0929-unique-email-addresses](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0929-unique-email-addresses) |
 | [0942-di-string-match](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0942-di-string-match) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1446-consecutive-characters](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1446-consecutive-characters) |
@@ -548,6 +549,7 @@
 | [0682-baseball-game](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0735-asteroid-collision) |
 | [0856-score-of-parentheses](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0856-score-of-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2390-removing-stars-from-a-string) |
 ## Bracket Sequences

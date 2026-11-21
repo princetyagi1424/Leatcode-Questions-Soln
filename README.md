@@ -341,6 +341,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0392-is-subsequence) |
 | [0633-sum-of-square-numbers](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0633-sum-of-square-numbers) |
+| [0844-backspace-string-compare](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0905-sort-array-by-parity) |
 | [0942-di-string-match](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0942-di-string-match) |
@@ -440,6 +441,7 @@
 | [0657-robot-return-to-origin](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0657-robot-return-to-origin) |
 | [0771-jewels-and-stones](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0796-rotate-string) |
+| [0844-backspace-string-compare](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0856-score-of-parentheses) |
 | [0929-unique-email-addresses](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0929-unique-email-addresses) |
 | [0942-di-string-match](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0942-di-string-match) |
@@ -482,6 +484,7 @@
 | [0657-robot-return-to-origin](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0735-asteroid-collision) |
+| [0844-backspace-string-compare](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0844-backspace-string-compare) |
 | [1389-create-target-array-in-the-given-order](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1389-create-target-array-in-the-given-order) |
 | [1518-water-bottles](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1518-water-bottles) |
 | [1688-count-of-matches-in-tournament](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1688-count-of-matches-in-tournament) |
@@ -553,6 +556,7 @@
 | [0496-next-greater-element-i](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0735-asteroid-collision) |
+| [0844-backspace-string-compare](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0856-score-of-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |

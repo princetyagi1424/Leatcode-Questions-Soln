@@ -65,6 +65,7 @@
 | [1313-decompress-run-length-encoded-list](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1313-decompress-run-length-encoded-list) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1352-product-of-the-last-k-numbers](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1352-product-of-the-last-k-numbers) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1389-create-target-array-in-the-given-order](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1389-create-target-array-in-the-given-order) |
@@ -190,6 +191,7 @@
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1323-maximum-69-number](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1323-maximum-69-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1352-product-of-the-last-k-numbers](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1352-product-of-the-last-k-numbers) |
 | [1390-four-divisors](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1390-four-divisors) |
 | [1486-xor-operation-in-an-array](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1512-number-of-good-pairs) |
@@ -574,6 +576,7 @@
 |  |
 | ------- |
 | [1248-count-number-of-nice-subarrays](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1248-count-number-of-nice-subarrays) |
+| [1352-product-of-the-last-k-numbers](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1352-product-of-the-last-k-numbers) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2389-longest-subsequence-with-limited-sum) |
@@ -698,4 +701,12 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0021-merge-two-sorted-lists) |
 | [0876-middle-of-the-linked-list](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/0876-middle-of-the-linked-list) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->

@@ -126,6 +126,7 @@
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3903-smallest-stable-index-i](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3903-smallest-stable-index-i) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 | [3978-unique-middle-element](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3978-unique-middle-element) |
 ## Hash Table
 |  |
@@ -288,6 +289,7 @@
 | [2567-minimum-score-by-changing-two-elements](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 | [4000-largest-integer-with-given-digit-sum](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Sorting
 |  |
@@ -321,6 +323,7 @@
 | [2567-minimum-score-by-changing-two-elements](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3024-type-of-triangle](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3024-type-of-triangle) |
 | [3536-maximum-product-of-two-digits](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3536-maximum-product-of-two-digits) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Quicksort
 |  |
 | ------- |
@@ -680,6 +683,7 @@
 | [2333-minimum-sum-of-squared-difference](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/princetyagi1424/Leatcode-Questions-Soln/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
